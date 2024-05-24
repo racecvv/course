@@ -1,0 +1,35 @@
+Номер заказа ;Дата заказа ;Название товара ;Категория товара ;Количество продаж ;Цена за единицу товара ;Общая стоимость ;;;;;;;;
+1;05/19/2024;Iphone 13 Case (Black);Accessories;2;876;1752;;;;;;;;
+2;05/19/2024;Iphone 13 Case (White);Accessories;3;876;2628;;;;;;;;
+3;05/19/2024;Airpods pro Headphones;Tech;1;18404;18404;;;;;;;;
+4;05/19/2024;Wireless Charger;Tech;2;2130;4260;;;;;;;;
+5;05/19/2024;Charger Usb-C (Type-C) - Lightning;Accessories;4;1274;3822;;;;;;;;
+6;05/19/2024;Wired EarPods Headphones (3.5 mm);Accessories;3;1854;5595;;;;;;;;
+7;05/19/2024;Portable Speaker HARMAN/KARDON;Tech;1;27710;27710;;;;;;;;
+8;05/19/2024;Microphone Samson;Tech;1;7603;7603;;;;;;;;
+9;05/19/2024;BEHRINGER HA400 Compact 4-Channel Headphone Amplifier;Tech;1;2743;2743;;;;;;;;
+10;05/19/2024;Audio-Technica AT2035;Tech;1;13464;13464;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;"Номер заказа, Дата заказа, Название товара, Категория товара, Количество продаж, Цена за единицу товара, Общая стоимость
+1,2024-05-19, Iphone 13 Case (Black), Accessories, 2, 876, 1752
+2,2024-05-19, Iphone 13 Case (White), Accessories, 3, 876, 2628
+3,2024-05-19, Airpods pro Headphones, Tech, 1, 18404, 18404
+4,2024-05-19, Wireless Charger, Tech, 2, 2130, 4260
+5,2024-05-19, Charger Usb-C (Type-C) - Lightning, Accessories, 3, 1274, 3822
+6,2024-05-19, Wired EarPods Headphones (3.5 mm), Accessories, 3, 1854, 5595
+7,2024-05-19, Portable Speaker HARMAN/KARDON, Audio, 1, 27710, 27710
+8,2024-05-19, Microphone Samson, Audio, 1, 7603, 7603
+9,2024-05-19, BEHRINGER HA400 Compact 4-Channel Headphone Amplifier, Audio, 1, 2743, 2743
+10,2024-05-19, Audio-Technica AT2035, Audio, 1, 13464, 13464"
